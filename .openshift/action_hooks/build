@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# 下载文件管理器
+cd ${OPENSHIFT_REPO_DIR}
+git clone https://github.com/kalcaddle/KODExplorer ./

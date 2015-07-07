@@ -1,0 +1,2 @@
+# openshift_kalcaddle
+Openshift芒果云安装源，在没有shell环境时方便进行操作
